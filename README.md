@@ -1,3 +1,4 @@
+重构已经完成，代码更容易阅读，bug修复，增加新功能，但是目前没有教程，欢迎试用。https://github.com/beikwx/SailVina
 ## Sail_vina_2.0
 Autodock Vina对接GUI界面
 
